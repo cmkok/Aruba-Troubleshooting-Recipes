@@ -1,0 +1,5 @@
+0,show running-config
+#
+0,show audit-trail history
+#
+0,show configuration effective detail #{show configuration node-hierarchy,,}.select("Config Node") 
